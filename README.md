@@ -1,6 +1,6 @@
 # Tess for Web
 
-## About
+### About
 
 Tess for Web is a triviai solving bot that incorates tesseract and web crawler to search the web for the answer to a trivia question (specifically HQ and cash show). 
 
