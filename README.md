@@ -1,7 +1,6 @@
-# Tesseract
-What is this?
-This is used to read words from an image on the screen and searchs the interpreted words on www.google.com. Currently, the code is in a mess and needs to be cleaned
+# Tess for Web
 
-How to
-In the src folder, there should be a class called Test.java. That file is the only file that needs to be changed to do it's purpose.
+#About
+Tess for Web is a triviai solving bot that incorates tesseract and web crawler to search the web for the answer to a trivia question (specifically HQ and cash show). 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=HRUf4fZt1Sw)
