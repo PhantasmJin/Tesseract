@@ -9,3 +9,5 @@ Tess for Web is a trivia solving bot that incorates tesseract and web crawler to
 ### How to use
 
 This project is made in Eclipse. To use, you have to open the Main.java file and compile it. Note that you must change the area of where you are taking the picture, or the system might throw an error.
+
+Note that this is a very early prototype and I probably won't get back to working on this soon.
